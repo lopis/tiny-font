@@ -1,0 +1,14 @@
+{
+  "name": "tiny-font",
+  "version": "1.0.0",
+  "description": "tiny compressed font",
+  "main": "index.js",
+  "author": "lopis",
+  "license": "MIT",
+  "scripts": {
+    "generate-font": "node index.js"
+  },
+  "dependencies": {
+    "jimp": "^0.22.10"
+  }
+}
